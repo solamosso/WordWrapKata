@@ -45,7 +45,7 @@ namespace WordWrapKata
         [TestCase("aaa bbbb", 7, "aaa\nbbbb")]
         [TestCase("aaaaaa bbbbcccc", 6, "aaaaaa\nbbbbcc\ncc")]
         [TestCase("aaaaaa bbbb cccc",6, "aaaaaa\nbbbb\ncccc")]
-        public void should_break_input_when_input_contains_severals_words_with_len_less_than_column_number0(string input, int columnNumber, string expected)
+        public void should_break_input_text_given_a_column_number(string input, int columnNumber, string expected)
         {
             var actual = Wrapper.Wrap(input, columnNumber);
             Check.That(actual).IsEqualTo(expected);

@@ -1,0 +1,9 @@
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\WordWrapKata.dll
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\WordWrapKata.pdb
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\NFluent.dll
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\nunit.framework.dll
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\NFluent.xml
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\bin\Debug\nunit.framework.xml
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\obj\Debug\WordWrapKata.csprojResolveAssemblyReference.cache
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\obj\Debug\WordWrapKata.dll
+C:\DisqueG\Tools\WordWrapKata\WordWrapKata\obj\Debug\WordWrapKata.pdb

@@ -7,8 +7,7 @@ You write a class called Wrapper, that has a single static function named wrap t
 
 Like a word processor, break the line by replacing the last space in a line with a newline.
 
-Prerequisites
-
+Prerequisites :
   - Visual studion community 2017 or later (Install nugget packages NUnit and NFluent)
   - NCrunch for Visual Studio 3.9.101 or later
   - JetBrains Resharper 2017.1.2 or later
